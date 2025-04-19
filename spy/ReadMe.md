@@ -4,8 +4,8 @@
 ```
 ### This will break internet detection:
 ```
-    0.0.0.0 www.msftconnecttest.com
-    0.0.0.0 dns.msftncsi.com
+0.0.0.0 www.msftconnecttest.com
+0.0.0.0 dns.msftncsi.com
 ```
 ### This may break msStore:
 ```
