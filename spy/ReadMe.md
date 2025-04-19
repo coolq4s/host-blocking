@@ -1,4 +1,4 @@
-###This will break time synch:
+### This will break time synch:
 ```
 0.0.0.0 time.windows.com
 ```
