@@ -1,13 +1,12 @@
 ### This will break time synch
-    host :
     ```
     0.0.0.0 time.windows.com
     ```
-###This will break internet detection:
-```
-0.0.0.0 www.msftconnecttest.com
-0.0.0.0 dns.msftncsi.com
-```
+### This will break internet detection:
+    ```
+    0.0.0.0 www.msftconnecttest.com
+    0.0.0.0 dns.msftncsi.com
+    ```
 ###This may break msStore:
 ```
 0.0.0.0 a-0001.a-msedge.net
