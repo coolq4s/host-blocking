@@ -17,7 +17,7 @@
 0.0.0.0 a-msedge.net
 ```
 
-- This WILL break msStore:
+- This will break msStore:
 ```
 0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
@@ -25,7 +25,7 @@
 0.0.0.0 licensing.mp.microsoft.com
 ```
 
-- This WILL trigger MS antivirus:
+- This will trigger MS antivirus:
 ```
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 spynet2.microsoft.com
