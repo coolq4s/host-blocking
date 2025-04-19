@@ -1,7 +1,8 @@
-### This will break time synch:
-```
-0.0.0.0 time.windows.com
-```
+### This will break time synch
+    host :
+    ```
+    0.0.0.0 time.windows.com
+    ```
 ###This will break internet detection:
 ```
 0.0.0.0 www.msftconnecttest.com
